@@ -1,7 +1,5 @@
 # Notes-Manager
-# Ludo Game Project
 
-This project is a Ludo game application built using React for the frontend and Express for the backend. The application allows users to create and join rooms, manage notes, and receive AI-driven suggestions for gameplay.
 
 ## Deployment Links
 
